@@ -1,0 +1,48 @@
+{
+  "_from": "devexpress-dashboard@19.2.3",
+  "_id": "devexpress-dashboard@19.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-5MVPtA7F/HWGWQLFiw0KyBJlsXn1SSnE0cj3+ya2UvzG3Z5Hj+7pEgOGBL8za308o6AL6zRZl6T1xkdT6Eb4tg==",
+  "_location": "/devexpress-dashboard",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "devexpress-dashboard@19.2.3",
+    "name": "devexpress-dashboard",
+    "escapedName": "devexpress-dashboard",
+    "rawSpec": "19.2.3",
+    "saveSpec": null,
+    "fetchSpec": "19.2.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/devexpress-dashboard/-/devexpress-dashboard-19.2.3.tgz",
+  "_shasum": "9e928945ed41ad4cb72641436645fd8b323625a7",
+  "_spec": "devexpress-dashboard@19.2.3",
+  "_where": "C:\\GIT\\general\\Tools\\DashboardPortal\\DashboardPortal.Web\\ClientApps\\Portal",
+  "author": {
+    "name": "Developer Express Inc."
+  },
+  "bugs": {
+    "url": "https://www.devexpress.com/support/"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/jquery": "^3.1.1",
+    "jquery": "^3.3.1",
+    "knockout": "~3.5.0"
+  },
+  "deprecated": false,
+  "description": "HTML JavaScript Dashboard for creating and viewing dashboards on the web and mobile devices",
+  "homepage": "https://www.devexpress.com/",
+  "license": "SEE LICENSE IN README.md",
+  "main": "./index.js",
+  "name": "devexpress-dashboard",
+  "peerDependencies": {
+    "@devexpress/analytics-core": "19.2.3",
+    "devextreme": "19.2.3"
+  },
+  "version": "19.2.3"
+}
