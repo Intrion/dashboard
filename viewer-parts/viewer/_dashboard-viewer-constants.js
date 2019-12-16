@@ -7,4 +7,4 @@
 */
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.SEPARATOR_SIZE = 10, exports.MIN_PANE_HEIGHT = 55, exports.MIN_PANE_WIDTH = 55, exports.USE_NATIVE_SCROLLING = 'auto', exports.ELEMENTS_COUNT_ANIMATION_THRESHOLD = 7;
+exports.SEPARATOR_SIZE = 10, exports.MIN_PANE_HEIGHT = 55, exports.MIN_PANE_WIDTH = 100, exports.USE_NATIVE_SCROLLING = 'auto', exports.ELEMENTS_COUNT_ANIMATION_THRESHOLD = 7;
